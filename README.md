@@ -4,8 +4,8 @@
 
 
 ## INITIAL LOADING 
-![alt text](https://github.com/chawhangaurav10/Todo/blob/main/Screenshots/IntialLoad.jpg?raw=true)
+![alt text](https://github.com/chawhangaurav10/Pokemon_Diary/blob/main/Screenshots/IntialLoad.jpg?raw=true)
 
 
 ## LOAD MORE
-![alt text](https://github.com/chawhangaurav10/Todo/blob/main/Screenshots/LoadMore.jpg?raw=true)
+![alt text](https://github.com/chawhangaurav10/Pokemon_Diary/blob/main/Screenshots/LoadMore.jpg?raw=true)
