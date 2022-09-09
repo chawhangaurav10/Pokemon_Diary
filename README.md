@@ -2,10 +2,11 @@
 
     An SPA for viweing the details of pokemon using API and understanding different usage of it.
 
+## SCREENSHOTS
 
-## INITIAL LOADING 
+### Initial Loading
 ![alt text](https://github.com/chawhangaurav10/Pokemon_Diary/blob/main/Screenshots/IntialLoad.jpg?raw=true)
 
 
-## LOAD MORE
+### Load More
 ![alt text](https://github.com/chawhangaurav10/Pokemon_Diary/blob/main/Screenshots/LoadMore.jpg?raw=true)
